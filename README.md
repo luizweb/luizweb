@@ -31,26 +31,28 @@ https://github.com/antonkomarev/github-profile-views-counter  ->  Contador
 
 <div align="center">
   <a href="https://github.com/luizweb">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luizweb&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide=contribs&hide_rank=true&hide_border=false&border_radius=0&border_color=F5F5F5&bg_color=F9F9F9"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizweb&layout=default&theme=default&hide_border=false&border_radius=0&border_color=F5F5F5&bg_color=F9F9F9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizweb&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide=contribs&hide_rank=true&hide_border=false&border_radius=0&border_color=F5F5F5&bg_color=F9F9F9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizweb&layout=default&theme=default&hide_border=false&border_radius=0&border_color=F5F5F5&bg_color=F9F9F9"/>
 </div>
   
 
 #### Projects:  
-  🌱 I’m currently learning Data Science with Python
+  <div>📊 Data Science and Data Analysis with Python</div>
+  <div>💻 Full Stack Web Developer</div>
 <br>
 <br>
 
 #### Dev Tools:  
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://www.svgrepo.com/show/120229/sql.svg">
   <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
       
-  <img align="center" alt="SQL" height="30" width="40" src="https://www.svgrepo.com/show/120229/sql.svg">
-  <!-- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -->
-  <!-- <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
-  <!-- <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
+  
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <!-- <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> -->
   
