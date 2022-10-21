@@ -31,7 +31,7 @@ https://github.com/antonkomarev/github-profile-views-counter  ->  Contador
 
 <div align="center">  
     
-  <img src="https://github-readme-stats.vercel.app/api?username=luizweb&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide=contribs&hide_rank=true&hide_border=false&border_radius=0&border_color=F5F5F5&bg_color=F9F9F9"/>
+  <img heigth="200em" src="https://github-readme-stats.vercel.app/api?username=luizweb&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide=contribs&hide_rank=true&hide_border=false&border_radius=0&border_color=F5F5F5&bg_color=F9F9F9"/>
     
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizweb&layout=default&theme=default&hide_border=false&border_radius=0&border_color=F5F5F5&bg_color=F9F9F9&hide=Procfile,Shell"/>
   
