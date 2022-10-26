@@ -37,11 +37,12 @@ https://github.com/antonkomarev/github-profile-views-counter  ->  Contador
   
 
 #### Projects:  
-  <div>📊 Data Science and Data Analysis with Python</div>
+  <div> <img alt="WebDev" width="30" src="https://www.svgrepo.com/show/27278/data-analytics-bars-graphic.svg" />
+    Data Science and Data Analysis with Python</div>
   
             
           
-  <div> <img alt="WebDev" width="40" src="https://www.svgrepo.com/show/249559/browser-web-development.svg" />
+  <div> <img alt="WebDev" width="30" src="https://www.svgrepo.com/show/130343/browser.svg" />
     Web Developer</div>
   
 <br>
