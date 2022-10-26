@@ -41,7 +41,7 @@ https://github.com/antonkomarev/github-profile-views-counter  ->  Contador
   
             
           
-  <div> <img alt="WebDev" height="16" width="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original-wordmark.svg" />
+  <div> <img alt="WebDev" height="24" width="24" src="https://www.clipartmax.com/png/middle/184-1841696_web-developer-icon-png.png" />
     Web Developer</div>
   
 <br>
