@@ -30,8 +30,8 @@ https://github.com/antonkomarev/github-profile-views-counter  ->  Contador
 
 <div align="center">
   <a href="https://github.com/luizweb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizweb&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide=contribs&hide_rank=true&hide_border=false&border_radius=0&border_color=bee0ec&bg_color=f5f5f5"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizweb&layout=default&theme=default&hide_border=false&border_radius=0&border_color=bee0ec&bg_color=f5f5f5&hide=Procfile,Shell"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=luizweb&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide=contribs&hide_rank=true&hide_border=false&border_radius=0&border_color=bee0ec&bg_color=f5f5f5"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizweb&layout=default&theme=default&hide_border=false&border_radius=0&border_color=bee0ec&bg_color=f5f5f5&hide=Procfile,Shell&langs_count=4"/>
 </div>
 
   
