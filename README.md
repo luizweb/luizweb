@@ -62,10 +62,7 @@ https://github.com/antonkomarev/github-profile-views-counter  ->  Contador
 
 <br>
 
-  <div align="right">
-    <img align="center" alt="Visitors" height="20" width="100" src="https://komarev.com/ghpvc/?username=luizweb&color=blue&style=flat-square&label=Visitors" alt="luizweb" /> <br>
-
-  </div>  
+  
 
 
 ##### Dev Tools:  
@@ -88,6 +85,9 @@ https://github.com/antonkomarev/github-profile-views-counter  ->  Contador
   
   <br>
 </div>
-  
+<div align="right">
+    <img align="center" alt="Visitors" height="20" width="100" src="https://komarev.com/ghpvc/?username=luizweb&color=blue&style=flat-square&label=Visitors" alt="luizweb" /> <br>
+
+  </div>  
 
 
