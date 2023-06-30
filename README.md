@@ -52,7 +52,7 @@ https://github.com/antonkomarev/github-profile-views-counter  ->  Contador
 
 -->
 
-#### Social:
+##### Social:
 <div> 
   <a href="https://www.linkedin.com/in/luiz-sim%C3%B5es-78408822a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://www.instagram.com/luiz_agsimoes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
@@ -64,12 +64,11 @@ https://github.com/antonkomarev/github-profile-views-counter  ->  Contador
 
   <div align="right">
     <img align="center" alt="Visitors" height="20" width="100" src="https://komarev.com/ghpvc/?username=luizweb&color=blue&style=flat-square&label=Visitors" alt="luizweb" /> <br>
-  
-    <br>
+
   </div>  
 
 
-#### Dev Tools:  
+##### Dev Tools:  
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://www.svgrepo.com/show/120229/sql.svg">
