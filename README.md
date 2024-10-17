@@ -1,5 +1,5 @@
-#### Hello! I'm Luiz Simões and this is my github!
-#### Olá! Eu sou o Luiz Simões e este é o meu github!
+#### 🌎 Hello! I'm Luiz Simões and this is my github!
+#### 🇧🇷 Olá! Eu sou o Luiz Simões e este é o meu github!
 
 
 
