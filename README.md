@@ -5,9 +5,6 @@
 <div align="center">
   <a  href="https://www.linkedin.com/in/akiosdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />     </a>
 </div>
-<div align="center">
-  Creator of <a href="https://wafflestream.com/" target="_blank">wafflestream.com</a>   Streaming & Videos platform
-</div>
 
 
 
